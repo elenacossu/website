@@ -1,0 +1,31 @@
+{
+    "id": "36D002AF",
+    "path": "~/Documents/Aree/CV/website/contact.qmd",
+    "project_path": "contact.qmd",
+    "type": "quarto_markdown",
+    "hash": "2132395944",
+    "contents": "",
+    "dirty": false,
+    "created": 1702216637839.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "29,0",
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "484:233.1999969482422"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1702216856,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1702216856391,
+    "read_only": false,
+    "read_only_alternatives": []
+}

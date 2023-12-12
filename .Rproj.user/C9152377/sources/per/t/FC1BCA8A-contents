@@ -1,0 +1,25 @@
+---
+title: "Contact"
+editor: visual
+about:
+  id: hero-heading
+  template: marquee
+  image-shape: rectangle
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/elenacossu
+    - icon: google
+      text: Scholar
+      href: https://scholar.google.com/citations?user=MTOa6DoAAAAJ
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/elenacossu/
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/elle_cossu
+---
+
+You can contact me via [email](href: mailto:elena.cossu@live.it?subject=Contact) or via social media.
+
+For any inquiry related to **SciencesPo** or **AuthLIB** you can write to my [SciencesPo email](href: mailto:elena.cossu@sciencespo.fr?subject=Contact).

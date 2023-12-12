@@ -1,0 +1,29 @@
+---
+title: "Contact"
+editor: visual
+about:
+  id: hero-heading
+  template: marquee
+  image-shape: rectangle
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/elenacossu
+    - icon: google
+      text: Scholar
+      href: https://scholar.google.com/citations?user=MTOa6DoAAAAJ
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/elenacossu/
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/elle_cossu
+---
+
+Thank you for your interest in contacting me. 
+
+I am available for new research collaboration and job opportunities.
+
+For inquiries, please email [**elena.cossu\@live.it**](href:%20mailto:elena.cossu@live.it?subject=Contact).
+
+For any inquiry related to **SciencesPo** or **AuthLIB**, please email [**elena.cossu\@sciencespo.fr**](href:%20mailto:elena.cossu@sciencespo.fr?subject=Contact).

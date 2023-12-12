@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-navigation: true
+  title: "Elena Cossu"
+
+  page-footer:
+    left: "&copy; Copyright 2024, Elena Cossu"
+    right: "This page is built with [Quarto](https://quarto.org/)."
+    center: "If you enjoyed any of my research or you want to support me you can [Buy me a Coffee](https://www.buymeacoffee.com/elenacossu)"
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+        
+      - href: about.qmd
+        text: About
+        
+      - href: publications.qmd
+        text: Publications
+
+      - href: research.qmd
+        text: Research
+        
+      - href: talks.qmd
+        text: Talks
+        
+      - href: teaching.qmd
+        text: Teaching
+        
+      - href: contact.qmd
+        text: Contact
+        
+      - href: cv.qmd
+        text: CV
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+

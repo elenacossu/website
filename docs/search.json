@@ -1,0 +1,163 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Cossu, E. (2023a). Clustering and Analysing Relevant Policy Dimensions of Populist, Left-Wing, Centrist, and Right-Wing Parties across Europe. Central European Journal of Public Policy, 17(1), 41–54. https://doi.org/10.2478/cejpp-2023-0004 (GitHub Code)\nCossu, E. (2023b). The Economic Effect Of Populist Rhetoric In Hungary. Online Journal of Modelling the New Europe, 41, 105–138. https://doi.org/10.24193/OJMNE.2023.41.05\nCossu, E. (2021). Understanding Contemporary Populism Through the Latin American Experience. AARMS – Academic and Applied Research in Military and Public Management Science, 20(3), Article 3. https://doi.org/10.32565/aarms.2021.3.4\nBorges Aguiar G. M., & Cossu E. (2019). The Gravity Model for Trade Theory. Köz-gazdaság, 14(3), Article 3. https://doi.org/10.14267/RETP2019.03.25"
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-publications",
+    "href": "publications.html#peer-reviewed-publications",
+    "title": "Publications",
+    "section": "",
+    "text": "Cossu, E. (2023a). Clustering and Analysing Relevant Policy Dimensions of Populist, Left-Wing, Centrist, and Right-Wing Parties across Europe. Central European Journal of Public Policy, 17(1), 41–54. https://doi.org/10.2478/cejpp-2023-0004 (GitHub Code)\nCossu, E. (2023b). The Economic Effect Of Populist Rhetoric In Hungary. Online Journal of Modelling the New Europe, 41, 105–138. https://doi.org/10.24193/OJMNE.2023.41.05\nCossu, E. (2021). Understanding Contemporary Populism Through the Latin American Experience. AARMS – Academic and Applied Research in Military and Public Management Science, 20(3), Article 3. https://doi.org/10.32565/aarms.2021.3.4\nBorges Aguiar G. M., & Cossu E. (2019). The Gravity Model for Trade Theory. Köz-gazdaság, 14(3), Article 3. https://doi.org/10.14267/RETP2019.03.25"
+  },
+  {
+    "objectID": "publications.html#under-peer-review",
+    "href": "publications.html#under-peer-review",
+    "title": "Publications",
+    "section": "Under Peer-Review",
+    "text": "Under Peer-Review\nCossu E. (2024). Application of Natural Language Processing to the Electoral Manifestos of Parties Characterised by Populist Rhetoric in Central and Eastern Europe. East European Journal of Society and Politics. (Forthcoming)"
+  },
+  {
+    "objectID": "publications.html#works-in-progress",
+    "href": "publications.html#works-in-progress",
+    "title": "Publications",
+    "section": "Works in Progress",
+    "text": "Works in Progress\nMeasuring Negative Mentions of Multiculturalism in France Using Text Data and Machine Learning\nMeasuring Illiberalism Using Text Data and Machine Learning"
+  },
+  {
+    "objectID": "publications.html#reports",
+    "href": "publications.html#reports",
+    "title": "Publications",
+    "section": "Reports",
+    "text": "Reports\nKerr, J., Morgan, MacNaboe, L., Cossu, E., Barton-Crosby, J., Fugard, A., & Sciarra, A. (2023). LNK Educate: Feasibility and pilot study. Youth Endowement Foundation. https://youthendowmentfund.org.uk/funding/evaluations/lnk-educate/"
+  },
+  {
+    "objectID": "publications.html#other-publications",
+    "href": "publications.html#other-publications",
+    "title": "Publications",
+    "section": "Other Publications",
+    "text": "Other Publications\n2022, A Small Country Trying To Go Big, A Big Union Trying Not To Go Small, Australian Institute of International Affairs\n2021, Chinese vaccine diplomacy in Latin America could change the international order, ECPR The Loop\n2020, Book Review: The Glass Half-Empty: Debunking the Myth of Progress in the Twenty-First Century by Rodrigo Aguilera, LSE Review of Books"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A description of Project"
+  },
+  {
+    "objectID": "projects/index.html#project-i",
+    "href": "projects/index.html#project-i",
+    "title": "Projects",
+    "section": "",
+    "text": "A description of Project"
+  },
+  {
+    "objectID": "projects/index.html#project-ii",
+    "href": "projects/index.html#project-ii",
+    "title": "Projects",
+    "section": "Project II",
+    "text": "Project II\nA description of Project"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Thank you for your interest in contacting me.\nI am available for new research collaboration and job opportunities.\nFor inquiries, please email elena.cossu@live.it.\nFor any inquiry related to SciencesPo or AuthLIB, please email elena.cossu@sciencespo.fr."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Development Economics Seminar, Corvinus University of Budapest, 2018 S2\nGlobal Economic Trends Seminar, , Corvinus University of Budapest, 2021 S1\nInternational Organizations and Economic Diplomacy Seminar, , Corvinus University of Budapest, 2021 S1"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "This project’s goal is to elaborate on how we can use a large corpus of text data together with machine learning to operationalise a multi-faceted and complex concept such as illiberalism. First, we elaborate on the different machine learning and Natural Language Processing methodologies available for such purpose. We present a review of methodologies that could be useful to conceptualise illiberalism using text data, and how we are planning to build a model using these methodologies. We then elaborate on potential sources of data and how to access them. We also report on how to link different resources and why manifestos, parliamentary speeches, and social media data are the best potential fit. Third, we elaborate on the conceptualisation of illiberalism and on the process we used to label the data. In the end we use a deep learning model to classify texts associated with illiberalism. We specifically will use a MdBERTa multilingual model trained on our whole corpus to classify texts characterised by illiberalism. We show the results of the model and we use the newly labelled text to build a ‘map of illiberalisms’. Our final goal is to understand the salient characteristics of texts containing illiberalism and to create a map that highlights the distinctive ideological features of illiberalism and neo-authoritarian values versus liberal democratic values. We do so by using Word Embeddings to place all the newly labelled texts on a relevant scale. This map built on our MdBERTa model gives us the options to explore new underlying dynamics and potential new associations of words and topics to illiberalism."
+  },
+  {
+    "objectID": "research.html#project-1---measuring-illiberalism-using-text-data-and-machine-learning",
+    "href": "research.html#project-1---measuring-illiberalism-using-text-data-and-machine-learning",
+    "title": "Research",
+    "section": "",
+    "text": "This project’s goal is to elaborate on how we can use a large corpus of text data together with machine learning to operationalise a multi-faceted and complex concept such as illiberalism. First, we elaborate on the different machine learning and Natural Language Processing methodologies available for such purpose. We present a review of methodologies that could be useful to conceptualise illiberalism using text data, and how we are planning to build a model using these methodologies. We then elaborate on potential sources of data and how to access them. We also report on how to link different resources and why manifestos, parliamentary speeches, and social media data are the best potential fit. Third, we elaborate on the conceptualisation of illiberalism and on the process we used to label the data. In the end we use a deep learning model to classify texts associated with illiberalism. We specifically will use a MdBERTa multilingual model trained on our whole corpus to classify texts characterised by illiberalism. We show the results of the model and we use the newly labelled text to build a ‘map of illiberalisms’. Our final goal is to understand the salient characteristics of texts containing illiberalism and to create a map that highlights the distinctive ideological features of illiberalism and neo-authoritarian values versus liberal democratic values. We do so by using Word Embeddings to place all the newly labelled texts on a relevant scale. This map built on our MdBERTa model gives us the options to explore new underlying dynamics and potential new associations of words and topics to illiberalism."
+  },
+  {
+    "objectID": "research.html#project-2---conceptualising-policies-linked-to-populist-rhetoric-in-europe-and-measuring-their-effects-in-hungary",
+    "href": "research.html#project-2---conceptualising-policies-linked-to-populist-rhetoric-in-europe-and-measuring-their-effects-in-hungary",
+    "title": "Research",
+    "section": "Project 2 - Conceptualising Policies Linked to Populist Rhetoric in Europe and Measuring Their Effects in Hungary",
+    "text": "Project 2 - Conceptualising Policies Linked to Populist Rhetoric in Europe and Measuring Their Effects in Hungary\nThis project aims at defining and measuring populism in terms of political and economic practices in Europe. In fact, even if populism is a fundamentally an anti-pluralist phenomenon, it manifests in Europe with specific nuances compared to other parts of the world. Governments characterised by populist rhetoric in Europe are often associated to illiberalism. In this sense, this works tries to look at (i) how we can conceptualise populism in relation to its more applied literature, (ii) how we can conceptualize its practices in Europe, and (iii) what are its economic consequences in a representative case such as the Hungarian one."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Selected Talks",
+    "section": "",
+    "text": "2022, Assessing the economic performance of a government characterised by populist rhetoric in Hungary: A synthetic control approach, ECPR General Conference\n2021, Macroeconomics and Politics in Hungary: How an Illiberal Government Characterised by Populist Rhetoric Deals With its Public Budget, The Doctoral Student Association of the University of Pécs Conference (PTE DOK)\n2021, Macroeconomics, Policies, and CEE: a Machine Learning Approach to Social Investment and Social Protection Policies, inGRID Workshop\n2020, A Review of Quasi-Experimental and Predictive Methodologies in Relation to Measuring Populism and its Outcomes, ASEEES 52nd Annual Convention\n2020, FATIGUE Project Workshop, Science is Wonderful! European Commission Outreach Event, 2019\nEconomic populism, fiscal policies and budget deficits: the sustainability implications for Central and Eastern Europe, WINIR Symposium 2019\n2019, Present and future populist policies in Europe: the Cases of Hungary and Bulgaria, RSA Winter Conference\n2019, The New Populist Policies Prescriptions, UACES 49th Annual Conference"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Elena Cossu",
+    "section": "",
+    "text": "Github\n  \n  \n    \n     Scholar\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Twitter\n  \n\n  \n  \nI am a researcher at SciencesPo Paris and for the Horizon AuthLIB project.\nI am also a Senior Policy Evaluation Researcher for the National Centre for Social Research in the UK.\nMy work is about applying data science techniques to political science and political economy. My current research is about using machine learning to classify illiberalism using text data.\nPreviously I worked on using experiments and quasi-experiments to measure the effects of a vast range of policies across Europe.\nI am interested in using data to understand and help solve political problems."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Research Fellow, SciencesPo Paris AuthLIB project\nSenior Policy Evaluation Researcher, National Centre for Social Research (UK)\nAssistant Lecturer, Corvinus University\nEarly Stage Researcher, Horizon FATIGUE project\n\n\n\n\n\nCorvinus University and UCL (2023, Budapest and London) - PhD in Economics\nBocconi University and SciencesPo Paris (2017, Milan and Paris) - Dual MSc in International Economic Policy\nUniversità Cattolica del Sacro Cuore (Milan, 2014) - BA in Political Science and International Relations\n\n\n\n\nR/RStudio, Python, SQL, command-line programming, GitHub, STATA, SPSS, HTML, LaTeX, PowerBI.\n\n\n\nEnglish, French, Italian, Spanish, Hungarian (basic).\n\n\n\n\nMatching Methods (including Mahalanobis matching and Kernel matching)\nPropensity Score Weighting (PSW)\nSynthetic Control Method (SCM)\nCluster Analysis\nNatural Language Processing (NLP)\nBERT Modelling\nQuantitative Sentiment Analysis\nData Scraping Techniques\nImputation Techniques (K-means and regression analysis inputting)\nRandomized Control Trials (RCTs)\n\n\n \n    \n  \n    \n     Github\n  \n  \n    \n     Scholar\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Twitter"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "",
+    "text": "Research Fellow, SciencesPo Paris AuthLIB project\nSenior Policy Evaluation Researcher, National Centre for Social Research (UK)\nAssistant Lecturer, Corvinus University\nEarly Stage Researcher, Horizon FATIGUE project"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "",
+    "text": "Corvinus University and UCL (2023, Budapest and London) - PhD in Economics\nBocconi University and SciencesPo Paris (2017, Milan and Paris) - Dual MSc in International Economic Policy\nUniversità Cattolica del Sacro Cuore (Milan, 2014) - BA in Political Science and International Relations"
+  },
+  {
+    "objectID": "about.html#analysis-languages-and-software",
+    "href": "about.html#analysis-languages-and-software",
+    "title": "About",
+    "section": "",
+    "text": "R/RStudio, Python, SQL, command-line programming, GitHub, STATA, SPSS, HTML, LaTeX, PowerBI."
+  },
+  {
+    "objectID": "about.html#natural-languages",
+    "href": "about.html#natural-languages",
+    "title": "About",
+    "section": "",
+    "text": "English, French, Italian, Spanish, Hungarian (basic)."
+  },
+  {
+    "objectID": "about.html#data-analysis",
+    "href": "about.html#data-analysis",
+    "title": "About",
+    "section": "",
+    "text": "Matching Methods (including Mahalanobis matching and Kernel matching)\nPropensity Score Weighting (PSW)\nSynthetic Control Method (SCM)\nCluster Analysis\nNatural Language Processing (NLP)\nBERT Modelling\nQuantitative Sentiment Analysis\nData Scraping Techniques\nImputation Techniques (K-means and regression analysis inputting)\nRandomized Control Trials (RCTs)"
+  }
+]

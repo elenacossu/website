@@ -1,0 +1,74 @@
+---
+title: "About"
+about:
+  id: hero-heading
+  template: marquee
+  image-shape: rectangle
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/elenacossu
+    - icon: google
+      text: Scholar
+      href: https://scholar.google.com/citations?user=MTOa6DoAAAAJ
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/elenacossu/
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/elle_cossu
+---
+
+
+::: {#hero-heading}
+
+## Experience
+
+- Research Fellow, SciencesPo Paris AuthLIB project
+
+- Senior Policy Evaluation Researcher, National Centre for Social Research (UK)
+
+- Assistant Lecturer, Corvinus University
+
+- Early Stage Researcher, Horizon FATIGUE project
+
+## Education 
+
+- Corvinus University and UCL (2023, Budapest and London) - PhD in Economics
+
+- Bocconi University and SciencesPo Paris (2017, Milan and Paris) - Dual MSc in International Economic Policy
+
+- Università Cattolica del Sacro Cuore (Milan, 2014) - BA in Political Science and International Relations
+
+## Analysis Languages and Software
+
+R/RStudio, Python, SQL, command-line programming, GitHub, STATA, SPSS, HTML, LaTeX, PowerBI.
+
+## Natural Languages
+
+English, French, Italian, Spanish, Hungarian (basic).
+
+## Data Analysis
+
+- Matching Methods (including Mahalanobis matching and Kernel matching)
+
+- Propensity Score Weighting (PSW)
+
+- Synthetic Control Method (SCM)
+
+- Cluster Analysis
+
+- Natural Language Processing (NLP)
+
+- BERT Modelling
+
+- Quantitative Sentiment Analysis
+
+- Data Scraping Techniques
+
+- Imputation Techniques (K-means and regression analysis inputting)
+
+- Randomized Control Trials (RCTs)
+
+:::
+
